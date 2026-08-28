@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="walky-logos.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.005"
+     inkscape:cx="99.875156"
+     inkscape:cy="100"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <rect
+     width="200"
+     height="200"
+     rx="28"
+     fill="#F6F1E7"
+     id="rect1" />
+  <path
+     d="M50 110 A50 50 0 0 1 150 110"
+     stroke="#1A1A1A"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="path1" />
+  <rect
+     x="40"
+     y="105"
+     width="18"
+     height="40"
+     rx="9"
+     fill="#FF6B4A"
+     id="rect2" />
+  <rect
+     x="142"
+     y="105"
+     width="18"
+     height="40"
+     rx="9"
+     fill="#FF6B4A"
+     id="rect3" />
+  <!-- bouche "w" arrondie façon :3 -->
+  <path
+     d="m 72,131.00874 c 6.007491,26.90637 21.333333,26.32459 28,8.99126 6.66667,17.33333 23.49064,17.91511 28,-8.99126"
+     stroke="#1a1a1a"
+     stroke-width="9"
+     fill="none"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path3"
+     sodipodi:nodetypes="ccc" />
+</svg>
