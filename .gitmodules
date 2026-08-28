@@ -1,0 +1,3 @@
+[submodule "walky-calamares-config"]
+	path = walky-calamares-config
+	url = git@github.com:Plouf-0/walky-calamares.git
