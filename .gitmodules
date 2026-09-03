@@ -4,3 +4,6 @@
 [submodule "walky-yocto"]
 	path = walky-yocto
 	url = git@github.com:Plouf-0/Walky.git
+[submodule "WalkyHome"]
+	path = WalkyHome
+	url = git@github.com:Plouf-0/WalkyHome.git
