@@ -7,3 +7,6 @@
 [submodule "WalkyHome"]
 	path = WalkyHome
 	url = git@github.com:Plouf-0/WalkyHome.git
+[submodule "walktify"]
+	path = walktify
+	url = git@github.com:Plouf-0/walktify.git
